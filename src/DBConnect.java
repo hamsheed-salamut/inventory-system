@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class DBConnect {
 	
-	static String url = "";
+	static String url = "root";
 	static String user = "";
 	static String password = "";
 	static Connection con;
